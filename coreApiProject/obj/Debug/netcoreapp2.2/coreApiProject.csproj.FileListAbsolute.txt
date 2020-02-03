@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\bin\Debug\netcoreapp2.2\coreApiProject.deps.json
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\bin\Debug\netcoreapp2.2\coreApiProject.runtimeconfig.json
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\bin\Debug\netcoreapp2.2\coreApiProject.runtimeconfig.dev.json
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\bin\Debug\netcoreapp2.2\coreApiProject.dll
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\obj\Debug\netcoreapp2.2\coreApiProject.csprojAssemblyReference.cache
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\obj\Debug\netcoreapp2.2\coreApiProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\obj\Debug\netcoreapp2.2\coreApiProject.RazorAssemblyInfo.cache
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\obj\Debug\netcoreapp2.2\coreApiProject.RazorAssemblyInfo.cs
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\obj\Debug\netcoreapp2.2\coreApiProject.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\obj\Debug\netcoreapp2.2\coreApiProject.AssemblyInfo.cs
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\obj\Debug\netcoreapp2.2\coreApiProject.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\bin\Debug\netcoreapp2.2\coreApiProject.pdb
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\obj\Debug\netcoreapp2.2\coreApiProject.dll
+C:\Users\HP\Documents\C# Tekrar\coreApiProject\coreApiProject\obj\Debug\netcoreapp2.2\coreApiProject.pdb
